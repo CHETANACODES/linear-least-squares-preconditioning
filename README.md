@@ -3,9 +3,7 @@
 
 ### Analysis, Optimization, and Numerical Stability
 
-**Author:** Chetana Pandey  
-**Degree:** MSc Mathematics  
-**Institution:** Mahatma Gandhi Kashi Vidyapith, Varanasi, India  
+**Author:** Chetana Pandey 
 **Year:** 2026
 
 ---
@@ -366,30 +364,3 @@ The implementation is provided so that the experiments can be reproduced and ext
 
 ---
 
-## Repository Structure
-
-```text
-linear-least-squares-preconditioning/
-│
-├── README.md
-│
-├── research/
-│   └── research_proposal.pdf
-│
-├── notebooks/
-│   └── experiments.ipynb
-│
-├── src/
-│   ├── gradient_descent.py
-│   ├── diagonal_preconditioning.py
-│   ├── iterative_preconditioning.py
-│   └── svd_preconditioning.py
-│
-├── results/
-│   ├── convergence/
-│   ├── accuracy/
-│   └── performance/
-│
-└── figures/
-    ├── convergence_plots/
-    └── comparison_plots/
